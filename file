@@ -1,0 +1,176 @@
+Aqui vai ter todas as perguntas e respostas que eu passei pelas entrevistas.
+
+- Uma breve introdução
+
+Olá! 
+
+Monte para mim um script e um passo a passo de perguntas e respostas de uma entrevista de emprego para um cargo de analista sênior em .net, focado em backend, utilizando a linguagem de programação CSharp.
+
+A empresa já utiliza alguns padrões, como o SOLID, SCRUM, serviços da AWS, banco de dados relacional (SQL), testes unitários, mensageria (RabbitMQ) 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+1. C# e .NET (Backend)
+Pergunta:
+
+Quais recursos da linguagem C# você mais utiliza no desenvolvimento backend?
+
+Resposta Esperada:
+Uso de recursos como LINQ, async/await, generics, delegates, expression trees, pattern matching (a partir do C# 7+), Span<T> para performance, records (C# 9), entre outros.
+
+Pergunta:
+
+Qual a diferença entre Task e ValueTask? Quando usar cada um?
+
+Resposta Esperada:
+Task é usado quando há certeza de que a operação assíncrona sempre retornará um resultado futuro. ValueTask é mais eficiente em cenários onde o resultado pode estar disponível de forma síncrona, reduzindo alocações. Ideal em métodos de alta performance que são chamados frequentemente.
+
+2. Princípios SOLID
+Pergunta:
+
+Me explique os princípios SOLID com exemplos práticos.
+
+Resposta Esperada:
+O candidato deve explicar:
+
+S (Single Responsibility): Cada classe com uma única responsabilidade.
+
+O (Open/Closed): Código aberto para extensão, fechado para modificação.
+
+L (Liskov Substitution): Subtipos podem ser substituídos por seus tipos base.
+
+I (Interface Segregation): Interfaces específicas e não generalistas.
+
+D (Dependency Inversion): Depender de abstrações, não de implementações.
+
+Exemplo prático com interfaces em C# é um plus.
+
+3. Banco de Dados Relacional (SQL) + Dapper
+Pergunta:
+
+Qual a diferença entre Dapper e Entity Framework? Por que você escolheria o Dapper?
+
+Resposta Esperada:
+Dapper é um micro ORM, mais performático e direto ao ponto, ideal para leitura rápida e acesso com controle total sobre SQL. EF é mais completo, mas mais pesado. Usaria Dapper quando performance é crítica ou para queries complexas personalizadas.
+
+Pergunta:
+
+Como você faria para evitar SQL Injection usando Dapper?
+
+Resposta Esperada:
+Uso de parâmetros nomeados (@param) nas queries, jamais concatenando strings diretamente com os valores.
+
+4. Mensageria (RabbitMQ)
+Pergunta:
+
+Explique como você implementaria uma fila de processamento assíncrono usando RabbitMQ no backend .NET.
+
+Resposta Esperada:
+Explicar o uso de Publisher, Consumer, troca de mensagens via Exchange, configuração de Queue, acknowledgment manual, e tratamento de erros. Mencionar bibliotecas como RabbitMQ.Client ou MassTransit é positivo.
+
+5. AWS
+Pergunta:
+
+Quais serviços da AWS você já utilizou em projetos backend?
+
+Resposta Esperada:
+Poderá citar:
+
+S3 (armazenamento de arquivos)
+
+RDS (banco relacional)
+
+SQS (mensageria)
+
+Lambda (funções serverless)
+
+CloudWatch (logs e monitoramento)
+
+Secrets Manager (segurança)
+
+6. Testes Unitários
+Pergunta:
+
+Como você estrutura seus testes unitários? Quais frameworks você costuma usar?
+
+Resposta Esperada:
+Uso de xUnit, NUnit ou MSTest. Mocks com Moq. Estrutura: Given, When, Then. Importância de testes isolados, cobertura de código, e uso de TestDrivenDevelopment (TDD).
+
+Pergunta:
+
+Como testar métodos que acessam banco de dados usando Dapper?
+
+Resposta Esperada:
+Isolar a lógica de acesso em repositórios e usar interfaces para mockar. Utilizar InMemoryDB para testes de integração ou mock de IDbConnection.
+
+7. Arquitetura e Design
+Pergunta:
+
+Que tipos de arquitetura você já implementou com .NET?
+
+Resposta Esperada:
+Candidato pode citar:
+
+Arquitetura em camadas
+
+Clean Architecture
+
+DDD
+
+Microserviços
+
+Event-driven (com mensageria)
+
+REST APIs
+
+8. SCRUM e Trabalho em Equipe
+Pergunta:
+
+Como você lida com planejamento de sprints e priorização de tarefas técnicas?
+
+Resposta Esperada:
+Com base nas cerimônias do SCRUM (planning, daily, review, retrospectiva). Importância da comunicação clara, estimativas (Story Points), uso de ferramentas como Jira/Trello/Azure DevOps.
+
+9. Estudo de Caso (Desafio)
+Cenário:
+
+Imagine que você precisa desenvolver um microserviço .NET que consome uma fila RabbitMQ, grava dados no SQL via Dapper, e envia uma notificação via e-mail. Como você estruturaria esse serviço?
+
+Resposta Esperada (em resumo):
+
+Worker Service (ou Web API com BackgroundService)
+
+RabbitMQ Client consumindo fila com retry e dead-letter
+
+Dapper para persistência com repositórios
+
+Serviço de envio de e-mails desacoplado
+
+Logs com Serilog ou outro logger
+
+Testes unitários dos componentes
+
+Deploy na AWS com observabilidade
+
+✅ Checklist de Soft Skills a Observar
+Comunicação técnica clara
+
+Raciocínio lógico e estruturação de ideias
+
+Colaboração e trabalho em equipe
+
+Capacidade de autogerenciamento
+
+⚙️ Extras Técnicos (Se houver tempo)
+Uso de Swagger / OpenAPI
+
+Autenticação JWT
+
+Princípios RESTful
+
+Injeção de dependência com .NET Core
+
+Middleware pipeline
+
