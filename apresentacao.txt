@@ -2,8 +2,7 @@ Olá, sou o Gabriel Peterossi Maricato, tenho 34 anos, trabalho com desenvolvime
 
 Em 2009, iniciei minha trajetória profissional como web designer em uma agência de publicidade localizada em Jaboticabal, no interior de São Paulo. Naquela época, trabalhava com a linguagem de programação PHP, desenvolvendo funcionalidades como envio de e-mails e consultas ao banco de dados MySQL. Para a criação dos layouts e materiais visuais, utilizava o Photoshop como principal ferramenta de design.
 
-Em 2011 me mudei para São Paulo onde consegui uma oportunidade em uma consultoria 
-Trabalhando em diversas consultorias, trabalhando na área financeira, puder adquirir deversos conhecimentos que fizeram com que eu conseguisse crescer profissionalmente.
+Em 2011, mudei-me para São Paulo, onde conquistei uma grande oportunidade em uma consultoria. Ao longo dos anos, atuei em diversas empresas do setor, especialmente na área financeira, o que me permitiu adquirir uma ampla gama de conhecimentos. Essas experiências foram fundamentais para meu crescimento profissional e para o desenvolvimento de uma visão estratégica mais sólida.
 
 Atualmente estou trabalhando como fullstack, mas focado em backend.
 
