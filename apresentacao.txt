@@ -14,12 +14,10 @@ Azure Board para o gerencimento de projeto
 
 AWS Code Pipeline para o deploy entre as esteiras de deploy, como desenvolvimento, homologação e produção.
 
-
-
 Desenvolvimento de novas funcionalidades;
 Participar de discussões técnicas com o time;
 Fazer code review;
-Participar das cerimônias (review, retrospectiva, planning, refinamentos), estimando esforço, ajudando a discutir sobre os projetos, levantando dúvidas, impactos, sugestões, etc
+Participar das cerimônias (review, retrospectiva, planning, refinamentos), estimando esforço, ajudando a discutir sobre os projetos, levantando dúvidas, impactos, sugestões, etc)
 Criação de testes de unidade;
 Alinhamento contínuo com os QAs do time;
 Participar de comitê de GMUD;
