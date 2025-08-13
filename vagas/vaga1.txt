@@ -1,15 +1,12 @@
 Sobre a vaga
 Buscamos por um Senior Full Stack .Net/Angular Developer, para atuar de forma remota que terá:
 
-
 **COMO RESPONSABILIDADE:**
 - Desenvolver aplicações;
 - Aplicar arquitetura de microsserviços;
 - Design System;
 
-
 **PARA ISSO VOCÊ PRECISA:**
-
 
 - Experiência com Angular 14/16
 - Experiência com C# (.NET Core 6)
@@ -26,7 +23,6 @@ Buscamos por um Senior Full Stack .Net/Angular Developer, para atuar de forma re
 - ORM: Entity Framework (EF) e/ou Dapper;
 - Inglês Fluente, atuará em projeto internacional;
 
-
 **CONHECIMENTO DIFERENCIAL:** 
 
 - Gitflow;
@@ -34,6 +30,5 @@ Buscamos por um Senior Full Stack .Net/Angular Developer, para atuar de forma re
 - Sistema Distribuídos;
 - Sonar;
 - Datadog;
-
 
 Modelo de contratação: Cooperado ou PJ
