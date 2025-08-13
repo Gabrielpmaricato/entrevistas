@@ -2,25 +2,23 @@ Vamos explorar Boas Práticas de Desenvolvimento de Software, começando com um 
 
 #############################################################################################################
 
-Oi! 👋 Programação Orientada a Objetos (POO) é um paradigma de programação que organiza o código em torno de objetos, que são instâncias de classes. 
+Olá! 👋 
+
+Programação Orientada a Objetos (POO) é um paradigma de programação que organiza o código em torno de objetos, que são instâncias de classes. 
 Esses objetos representam entidades do mundo real ou conceitos abstratos, e possuem atributos (dados) e métodos (funções que realizam ações).
 
 Aqui vai um resumo dos principais conceitos:
 
 🧱 Conceitos Fundamentais da POO
 Classe: É como um molde ou modelo. Define os atributos e métodos que os objetos daquela classe terão.
-
 Objeto: É uma instância de uma classe. Quando você cria um objeto, está usando a classe como base.
-
 Encapsulamento: Esconde os detalhes internos do objeto e expõe apenas o que é necessário. Isso ajuda a proteger os dados.
-
 Herança: Permite que uma classe herde atributos e métodos de outra. Facilita o reaproveitamento de código.
-
 Polimorfismo: Objetos diferentes podem responder de maneira diferente a uma mesma ação. Isso torna o código mais flexível.
-
 Abstração: Foca nos aspectos essenciais de um objeto, ignorando os detalhes desnecessários.
 
 🧸 Exemplo Simples em Python
+
 python
 class Animal:
     def __init__(self, nome):
@@ -35,6 +33,7 @@ class Cachorro(Animal):
 
 meu_cachorro = Cachorro("Rex")
 meu_cachorro.falar()  # Saída: Rex diz: Au au!
+
 Nesse exemplo:
 
 Animal é uma classe base.
@@ -45,10 +44,7 @@ meu_cachorro é um objeto da classe Cachorro.
 
 Se quiser, posso te mostrar como esses conceitos se aplicam em outras linguagens como Java, C# ou JavaScript. Quer explorar mais algum deles?
 
-
 #############################################################################################################
-
-
 🧱 Programação Orientada a Objetos (POO)
 A Programação Orientada a Objetos (OOP - Object-Oriented Programming) é um paradigma de programação baseado em "objetos" — entidades que combinam estado (dados) e comportamento (métodos).
 
