@@ -1,2 +1,8 @@
-# entrevistas
-Esse repositório foi criado para armazenar todas as informações que eu passei pelas entrevistas
+# Partiu entrevistas!
+
+Olá! Eu criei esse repositório para armazenar todas as informações que estou consolidando para entrevista de emprego. 
+
+
+
+
+
