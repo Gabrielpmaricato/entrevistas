@@ -1,0 +1,64 @@
+Estamos em busca de um(a) Desenvolvedor(a) Back-end Sênior com experiência sólida em .NET - mínimo 5 anos de experiência, para atuar na evolução e manutenção de uma plataforma robusta. Desejável um perfil técnico extremamente completo, o profissional terá uma carga de responsabilidade grande como executor em tarefas mais complexas para o time, ao mesmo, sendo a referência principal em momentos de discussões técnicas, desenho/planejamento em soluções, definição de arquiteturas utilizadas.
+
+Requisitos
+
+.NET / C# Avançado (Async/Await, Delegates, LINQ) 
+Sincrono vs Assíncrono 
+Microserviços 
+Microserviço vs Monolito 
+Domain-Driven Design (DDD) 
+Observabilidade Application Performance Management (APM) 
+Observabilidade Alertas 
+Testes unitários 
+Clean Architecture 
+Kafka vs RabbitMQ 
+Estratégias de cache 
+Containers/Kubernetes
+Event Driven Architecture 
+RabbitMQ 
+Apache Kafka 
+Redis 
+CI/CD (Azure DevOps, Jenkins) 
+Arquitetura Hexagonal 
+SQL vs NoSQL 
+Piramide de testes 
+Datadog 
+OAuth 
+AWS (Amazon Web Services)
+
+Diferenciais/Desejados
+
+Observabilidade Golden Signals 
+Microsoft Azure 
+Estratégias de deploy (Rolling/Canário/Blue green) 
+GraphQL 
+Api gateway 
+Testes de Integração
+
+Benefícios
+
+Alimentação e Saúde: 
+Clube iFood: Aproveite descontos de até R$50,00 por mês. 
+Consultas Médicas: 4 consultas mensais com profissionais como nutricionista, psicólogo e clínico geral. 
+Descontos em Farmácias: Até 80% em medicamentos e até 70% em consultas/exames em diversas clínicas. 
+Seguro de Vida: Proteção para você e sua família. Fitness e Bem-Estar: 
+Totalpass: Acesso a várias academias credenciadas para manter sua saúde em dia. 
+Benefícios no cartão Ifood : 
+R$1.100,00-VR/VA: para escolher suas refeições. 
+R$550,00 -Auxílio Saúde: para despesas médicas. 
+R$100,00 -Auxílio Educação: para investir em seu desenvolvimento pessoal. 
+R$100,00-Auxílio Cultura: para apoiar suas paixões. 
+R$100,00-Auxílio Home Office: para garantir um ambiente de trabalho confortável em casa. 
+R$100,00 -Auxílio Mobilidade: para facilitar seus deslocamentos (gasolina/uber). 
+Auxílio Creche: Para crianças até 5 anos. (R$626,00 - Mediante a comprovante) 
+Plataforma Alura: Acesso a cursos completos para aprimorar suas habilidades. 
+Bônus de Aniversário: Uma surpresa financeira para celebrar seu dia. 
+Indicação de Talentos: Bônus por trazer novos talentos para a nossa equipe. 
+Observação: Os valores dos auxílios (exceto o VR/VA) podem ser transferidos de uma categoria para outra, oferecendo flexibilidade para atender suas necessidades.
+
+Informações Adicionais
+
+Contrato CLT 
+Notebook
+Remoto 
+De segunda a sexta das 9:00 ás 18:00
