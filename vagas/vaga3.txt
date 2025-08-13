@@ -1,0 +1,62 @@
+Sobre a área
+
+Você fará parte de uma equipe de Atendimento e Operações, responsável pelo Portal do Consultor e pela integração com sistemas de atendimento ao cliente do banco. O time atua no desenvolvimento e manutenção de aplicações críticas que garantem a eficiência e a qualidade do suporte ao cliente.
+
+
+Principais responsabilidades
+
+Desenvolver, evoluir e manter aplicações em .NET 8 e Angular
+Criar e manter integrações entre sistemas internos
+Implementar e manter testes unitários para assegurar qualidade e robustez do código
+Trabalhar com bancos de dados relacionais
+Garantir práticas de Clean Code e versionamento de código com Git
+Contribuir ativamente em um ambiente dinâmico e colaborativo, de alta demanda e foco em resultados
+
+
+Requisitos
+
+Experiência comprovada em .NET
+Conhecimento em Entity Framework
+Experiência com testes unitários
+Domínio de bancos de dados relacionais
+Vivência com Git
+Experiência em desenvolvimento fullstack com Angular
+Boa comunicação para captar e distribuir informações
+Capacidade de colaboração e integração com diferentes times
+
+
+Conhecimentos diferenciais
+
+Azure
+Docker
+Kubernetes
+RabbitMQ
+OpenID
+Práticas avançadas de Clean Code
+Experiência prévia no setor financeiro
+Interesse e engajamento com tecnologias modernas
+
+
+Modelo de Trabalho:
+
+Remoto, com preferência para candidatos de São Paulo ou Belo Horizonte.
+
+
+Nossos benefícios:
+
+🍽️ Vale refeição no valor de R$ 1.003,48 ao mês;
+🛒 Vale alimentação no valore de R$ 797,99 ao mês;
+🍾 13º do vale alimentação;
+💰 PLR;
+👨🏻 ⚕️ Assistência médica;
+🦷 Assistência odontológica;
+🗣️ Programa + Saúde: Telemedicina;
+🚀 Previdência Privada;
+👶🏽 Auxílio Creche no valor de R$ 613,19 por filho até 6 anos;
+🤰🏼 Programa Maternar: Acompanhamento profissional da gestação e puerpério;
+🍼 Espaço Lactário, para o retorno das mamães;
+🏋🏻 Wellhub, o antigo Gympass;
+🏖️ Dayoff, um dia de folga no seu aniversário;
+🤓 Potencializa: Nossa plataforma de cursos internos;
+💵 Empréstimo para colaboradores;
+⏰ Jornada reduzida, 40 horas semanais;
