@@ -1,8 +1,6 @@
 Olá, sou o Gabriel Peterossi Maricato, tenho 34 anos, trabalho com desenvolvimento de software desde 2009.
 
-Em 2009, iniciei minha carreira como web designer em uma agência de publicidade e propaganda na cidade de Jaboticabal, interior de São Paulo.
-Nessa época eu trabalhei com a linguagem de programação PHP onde realizava envio de e-mails e consultas ao banco de dados MYSql.
-Para criar os layouts, utilizava a ferramenta Photoshop.
+Em 2009, iniciei minha trajetória profissional como web designer em uma agência de publicidade localizada em Jaboticabal, no interior de São Paulo. Naquela época, trabalhava com a linguagem de programação PHP, desenvolvendo funcionalidades como envio de e-mails e consultas ao banco de dados MySQL. Para a criação dos layouts e materiais visuais, utilizava o Photoshop como principal ferramenta de design.
 
 Em 2011 me mudei para São Paulo onde consegui uma oportunidade em uma consultoria 
 Trabalhando em diversas consultorias, trabalhando na área financeira, puder adquirir deversos conhecimentos que fizeram com que eu conseguisse crescer profissionalmente.
